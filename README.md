@@ -1,2 +1,2 @@
 # sample_mfile
-This is a sample project
+This is a simple project
